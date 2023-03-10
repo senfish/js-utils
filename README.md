@@ -1,2 +1,4 @@
 # js-utils
-一些的js工具函数
+
+
+- [blob转string](/file/blobToString.js)
